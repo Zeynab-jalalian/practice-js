@@ -1,6 +1,5 @@
-var x=0;
-function test(){
+let x=0;
+document.getElementById('divvvv').addEventListener('scroll',function test(){
+    document.getElementById('count').innerHTML=x+=1;
+})
 
-document.getElementById('count').innerHTML=x+=1;
-    
-}
