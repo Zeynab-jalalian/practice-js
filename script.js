@@ -1,4 +1,6 @@
+var x=0;
 function test(){
-    console.log('test');
+
+document.getElementById('count').innerHTML=x+=1;
     
 }
