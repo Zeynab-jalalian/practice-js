@@ -1,1 +1,1 @@
-console.log(window);
+window.alert(document.title)
