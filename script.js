@@ -1,1 +1,1 @@
-window.alert(document.title)
+
