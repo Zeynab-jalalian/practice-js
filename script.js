@@ -1,2 +1,2 @@
-console.log(window.innerWidth);
-console.log(window.innerHeight);
+console.log(screen.width);
+console.log(screen.height)
